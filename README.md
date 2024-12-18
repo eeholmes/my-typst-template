@@ -1,11 +1,9 @@
-# Nmfs-sar-template Format
+# My typst template Format
 
 ## Installing
 
-_TODO_: Replace the `<github-organization>` with your GitHub organization.
-
 ```bash
-quarto use template <github-organization>/nmfs-sar-template
+quarto use template eeholmes/my-typst-template
 ```
 
 This will install the format extension and create an example qmd file
