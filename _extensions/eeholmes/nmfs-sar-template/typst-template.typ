@@ -41,7 +41,7 @@
       #set text(
         font: "Open Sans",
         fill: rgb("#5EB6D9"))
-      ALASKA MARINE MAMMAL STOCK ASSESSMENT REPORT],
+      TEST TEST],
     // Define the background for the first page
     background: context { if(counter(page).get().at(0)== 1) {
       align(left + top)[
